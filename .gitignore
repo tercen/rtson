@@ -1,0 +1,6 @@
+.idea
+*.so
+*.o
+.Rproj.user
+.Rhistory
+.RData
