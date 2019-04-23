@@ -3,7 +3,7 @@
 R implementation of [TSON specification](https://github.com/tercen/TSON).
 
 ```R
-devtools::install_github("tercen/rtson", ref = "1.6.1", upgrade_dependencies = FALSE, args="--no-multiarch")
+devtools::install_github("tercen/rtson", ref = "1.6.2", upgrade_dependencies = FALSE, args="--no-multiarch")
 ```
 
 ## Note
@@ -11,6 +11,10 @@ devtools::install_github("tercen/rtson", ref = "1.6.1", upgrade_dependencies = F
 Type int64 partially implemented.
 
 ## Changes
+
+### 1.6.2
+
+- move to https://github.com/tercen/rtson
 
 ### 1.6.1
 
